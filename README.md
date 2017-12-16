@@ -22,3 +22,8 @@ Baixe o arquivo jenkins.war
 java -jar jenkins.war --httpPort=8080
 ```
 
+### Tutorial
+
+Um tutorial introdutorio que recomendo segue no link abaixo.
+
+http://blog.caelum.com.br/integracao-continua-de-projeto-java-com-jenkins/
