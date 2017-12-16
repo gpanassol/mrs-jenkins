@@ -18,7 +18,7 @@ https://jenkins.io/doc/pipeline/tour/getting-started/
 
 Baixe o arquivo jenkins.war
 
-´´´
+```
 java -jar jenkins.war --httpPort=8080
-´´´
+```
 
